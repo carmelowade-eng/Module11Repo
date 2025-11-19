@@ -2,5 +2,6 @@
 # 11/15/24
 # A simple Python program to print a nessage 
 
-Print("Hello, World!")
-print ("kelcome to GitHub!")
+# Firstname Lastname
+# 11/17/2024
+# added new message
